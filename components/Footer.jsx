@@ -8,7 +8,7 @@ const Footer = () => (
     borderTop="1px"
     borderColor="gray.100"
   >
-    2021 Realter,Inc.
+    2022 Realter,Inc.
     <Text> made with ❤️ by mikan</Text>
   </Box>
 );
