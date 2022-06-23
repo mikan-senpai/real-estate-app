@@ -9,7 +9,7 @@ const Footer = () => (
     borderColor="gray.100"
   >
     2022 Realter,Inc.
-    <Text> made with ❤️ by mikan</Text>
+    <Text > made with ❤️ by mikan</Text>
   </Box>
 );
 
